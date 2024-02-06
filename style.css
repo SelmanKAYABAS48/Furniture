@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px solid red;
+    width:80% ;
+    margin: 50px auto;
+    border-radius: 2rem;
+}
+.iconbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.input-part{
+    display: flex;
+}
